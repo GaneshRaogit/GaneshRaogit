@@ -5,12 +5,12 @@ Data Analyst with proven expertise in transforming complex business challenges i
 ---
 ## ⚙️🧑‍💻Technical Proficiency
 
-**Programming & Databases**: Python (Pandas, NumPy, Matplotlib), SQL (MySQL), Advanced Excel
-**Analytics & Statistics**: A/B Testing, Hypothesis Testing, Time Series Analysis, Regression Models, Descriptive & Inferential Stats
-**Visualization & BI**: Power BI, Jupyter Notebook, Interactive Dashboards  
-**Analytics Expertise**: Customer Segmentation, Predictive Modeling, Statistical Analysis, Business Intelligence  
-**Cloud & Data Platforms**: AWS, Azure,  Jupyter Notebooks, VSCode
-**Core Competencies**: Data Cleaning & Transformation, KPI Development, Financial Analysis, Healthcare Analytics
+- **Programming & Databases**: Python (Pandas, NumPy, Matplotlib), SQL (MySQL), Advanced Excel
+- **Analytics & Statistics**: A/B Testing, Hypothesis Testing, Time Series Analysis, Regression Models, Descriptive & Inferential Stats
+- **Visualization & BI**: Power BI, Jupyter Notebook, Interactive Dashboards  
+- **Analytics Expertise**: Customer Segmentation, Predictive Modeling, Statistical Analysis, Business Intelligence  
+- **Cloud & Data Platforms**: AWS, Azure,  Jupyter Notebooks, VSCode
+- **Core Competencies**: Data Cleaning & Transformation, KPI Development, Financial Analysis, Healthcare Analytics
 
 ## 💡 Projects
 

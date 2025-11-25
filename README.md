@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Ganesh Rao</h1>
+<h1 align="center">👋 Hi there, I'm Jaddidi Ganesh Rao</h1>
 
 Data Analyst with proven expertise in transforming complex business challenges into actionable intelligence across retail, e-commerce, and healthcare sectors. Specialized in end-to-end analytics—from data extraction and SQL transformation to executive dashboards that drive multimillion-dollar decisions.
 
 ---
-## Technical Proficiency
+## ⚙️🧑‍💻Technical Proficiency
 
 **Programming & Databases**: Python (Pandas, NumPy, Matplotlib), SQL (MySQL), Advanced Excel
 **Analytics & Statistics**: A/B Testing, Hypothesis Testing, Time Series Analysis, Regression Models, Descriptive & Inferential Stats

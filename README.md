@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Jaddidi Ganesh Rao</h1>
 
-Data Analyst with proven expertise in transforming complex business challenges into actionable intelligence across retail, e-commerce, and healthcare sectors. Specialized in end-to-end analytics—from data extraction and SQL transformation to executive dashboards that drive multimillion-dollar decisions.
+Data Analyst with proven expertise in transforming complex business challenges into actionable intelligence across retail, e-commerce, healthcare, Financial sectors. Specialized in end-to-end analytics—from data extraction and SQL transformation to executive dashboards that drive multimillion-dollar decisions.
 
 ---
 ## ⚙️🧑‍💻Technical Proficiency
@@ -15,12 +15,15 @@ Data Analyst with proven expertise in transforming complex business challenges i
 ## 💡 Projects
 
 **🏥Healthcare Analytics: Patient Journey & Financial Intelligence**  
+
 Engineered unified analytics platform consolidating fragmented hospital data across 10,000 patient records and $270M in billing volume. Designed three executive dashboards answering critical operational questions: patient demographics, care pathway efficiency, and financial concentration. Identified 18% bed capacity optimization opportunity through length-of-stay standardization and revealed that 10 providers (of 300+) drove 28% of total revenue, enabling targeted contract negotiations. Delivered seasonal forecasting showing 12% March admission surge, transforming reactive staffing into proactive resource planning.
 
 **🛍️Customer Shopping Behavior Analysis: Turkish Retail Intelligence**  
+
 Conducted comprehensive analysis of $28.6M transaction volume across 11,099 customers spanning 796 days of retail activity. Uncovered critical business insight: 16.6% VIP customers generated 67.5% of total revenue with average transactions of $10,507—fundamentally reshaping customer relationship strategy. Identified luxury market segment ($25.7M, 89.9% of revenue) with 32.5% customer penetration, revealing untapped premium positioning opportunities. Documented 26.6% seasonal performance variance between peak (January) and weak (November) months, enabling data-driven inventory and marketing optimization.
 
-**🎯 McDonald’s Financial Performance Analysis: Global Profitability & Margin Optimization**
+**🎯 McDonald’s Financial Performance Analysis: Global Profitability & Margin Optimization** 
+
 Analyzed $25.5B in global revenue spanning 22 fiscal years to evaluate profitability, growth trajectory, and margin dynamics across business segments. Conducted detailed trend, variance, and CAGR analysis (2.1%), achieving 100% data accuracy through SQL- and Excel-based financial modeling. Automated profitability KPI tracking, cutting analysis turnaround time by 85% (days to hours). Decomposed 34.9pp gross margin expansion (10.8% → 45.7%) and uncovered 8.1% variance in segment earnings linked to leverage efficiency. Delivered insights that informed strategic decisions on cost optimization, pricing adjustments, and operational scalability—providing an executive-level framework for long-term financial planning.
 
 ## ✅Analytical Approach
@@ -48,7 +51,7 @@ I excel in environments where analytical precision directly influences strategic
 - 🔗 LinkedIn https://linkedin.com/in/j-ganesh-rao-055ba2279
 - 📨 Email: jganeshrao5@gmail.com
 - 🌐 Portfolio / Website: https://github.com/GaneshRaogit
-- 📌 Open to roles in: Data Analysis | Business Analysis | Product Analytics | Project Management
+- 📌 Open to roles in: Data Analyst | Business Analyst | Financial Analyst| Product Analyst | Project Management 
 
 ---
 

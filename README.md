@@ -20,7 +20,7 @@ Engineered unified analytics platform consolidating fragmented hospital data acr
 **🛍️Customer Shopping Behavior Analysis: Turkish Retail Intelligence**  
 Conducted comprehensive analysis of $28.6M transaction volume across 11,099 customers spanning 796 days of retail activity. Uncovered critical business insight: 16.6% VIP customers generated 67.5% of total revenue with average transactions of $10,507—fundamentally reshaping customer relationship strategy. Identified luxury market segment ($25.7M, 89.9% of revenue) with 32.5% customer penetration, revealing untapped premium positioning opportunities. Documented 26.6% seasonal performance variance between peak (January) and weak (November) months, enabling data-driven inventory and marketing optimization.
 
-**🎯 McDonald’s Financial Performance Analysis: Global Profitability & Margin Optimization
+**🎯 McDonald’s Financial Performance Analysis: Global Profitability & Margin Optimization**
 Analyzed $25.5B in global revenue spanning 22 fiscal years to evaluate profitability, growth trajectory, and margin dynamics across business segments. Conducted detailed trend, variance, and CAGR analysis (2.1%), achieving 100% data accuracy through SQL- and Excel-based financial modeling. Automated profitability KPI tracking, cutting analysis turnaround time by 85% (days to hours). Decomposed 34.9pp gross margin expansion (10.8% → 45.7%) and uncovered 8.1% variance in segment earnings linked to leverage efficiency. Delivered insights that informed strategic decisions on cost optimization, pricing adjustments, and operational scalability—providing an executive-level framework for long-term financial planning.
 
 ## ✅Analytical Approach

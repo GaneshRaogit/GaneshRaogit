@@ -20,8 +20,8 @@ Engineered unified analytics platform consolidating fragmented hospital data acr
 **🛍️Customer Shopping Behavior Analysis: Turkish Retail Intelligence**  
 Conducted comprehensive analysis of $28.6M transaction volume across 11,099 customers spanning 796 days of retail activity. Uncovered critical business insight: 16.6% VIP customers generated 67.5% of total revenue with average transactions of $10,507—fundamentally reshaping customer relationship strategy. Identified luxury market segment ($25.7M, 89.9% of revenue) with 32.5% customer penetration, revealing untapped premium positioning opportunities. Documented 26.6% seasonal performance variance between peak (January) and weak (November) months, enabling data-driven inventory and marketing optimization.
 
-**🎯Business Sales Performance Analysis: Multi-Regional Revenue Intelligence**  
-Analyzed $70.33M in sales across 25,000 transactions spanning four regional markets and four product categories. Built interactive Power BI dashboard revealing 8.58% month-over-month growth trajectory and 9.22% profit margin. Identified top sales representative exceeding $10M in individual performance—400% above team average—and documented replicable methodologies for organization-wide implementation. Discovered Q4 West region surge and balanced category distribution (Clothing 28%, Furniture 26%), providing strategic foundation for resource allocation and expansion planning.
+**🎯 McDonald’s Financial Performance Analysis: Global Profitability & Margin Optimization
+Analyzed $25.5B in global revenue spanning 22 fiscal years to evaluate profitability, growth trajectory, and margin dynamics across business segments. Conducted detailed trend, variance, and CAGR analysis (2.1%), achieving 100% data accuracy through SQL- and Excel-based financial modeling. Automated profitability KPI tracking, cutting analysis turnaround time by 85% (days to hours). Decomposed 34.9pp gross margin expansion (10.8% → 45.7%) and uncovered 8.1% variance in segment earnings linked to leverage efficiency. Delivered insights that informed strategic decisions on cost optimization, pricing adjustments, and operational scalability—providing an executive-level framework for long-term financial planning.
 
 ## ✅Analytical Approach
 
@@ -36,7 +36,8 @@ Every analysis I deliver addresses three core questions: What happened? Why did 
 - **Strategic Leverage**: Concentrated spend analysis enabling multimillion-dollar contract negotiations  
 - **Forecasting Accuracy**: Seasonal pattern recognition supporting proactive resource planning
 - **Performance Benchmarking**: Cross-entity comparisons revealing 58% efficiency variances for standardization
-
+- **Financial Knowledge**: Analyzed 20+ years Financial Data and recommend stakeholder about investment opportunity
+  
 ## Professional Distinction
 
 What differentiates my work is the intersection of technical rigor and strategic narrative. I don't just analyze data—I ensure every stakeholder from finance to operations pulls from the same governed, trustworthy source. My projects withstand executive scrutiny because they address real business questions with quantified, defensible answers backed by reproducible methodologies.
